@@ -5,7 +5,7 @@
 - 📫 How to reach me : 
   - On email : m.laminemboup@gmail.com
 
-- For Privates repositories : 
+- For Private Repositories : 
   - Send me a mail to get access on 
 
 <!---
