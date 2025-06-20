@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mouLam
 - 👀 I’m interested in WEB DEVELOPMENT & SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning NEW TECH FOR DEV APP-WEB
+- 🌱 I’m currently learning NEW TECH like ANGULAR 17
 - 📫 How to reach me : 
   - On email : m.laminemboup@gmail.com
 
